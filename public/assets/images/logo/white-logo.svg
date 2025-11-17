@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <rect width="300" height="100" fill="none"/>
+  <g fill="none" fill-rule="evenodd">
+    <circle cx="50" cy="50" r="35" fill="#FFFFFF"/>
+    <path d="M50 30c-10 8-15 18-15 28 8-2 18-7 25-15 7-9 8-18 8-18s-8-3-18 5z"
+          fill="#FFFFFF"/>
+    <text x="100" y="60" font-family="Arial, sans-serif" font-size="32" fill="#FFFFFF">
+      Freshlytics
+    </text>
+  </g>
+</svg>
